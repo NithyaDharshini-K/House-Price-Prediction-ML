@@ -1,6 +1,7 @@
 # 🏠 **House Price Prediction Using Machine Learning**  
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1K1dn0L82vmq_86h22Xh4ZLWaAbrNinwE?usp=sharing)  
+🔗 **GitHub Repository:** [House Price Prediction ML](https://github.com/NithyaDharshini-K/House-Price-Prediction-ML.git)  
 
 ---
 
@@ -12,7 +13,7 @@ This project applies **XGBoost Regressor**, a powerful and efficient machine lea
 ---
 
 ## 📂 **Dataset**  
-The dataset used is **House Price India.csv**, which contains multiple features related to house pricing, such as:  
+The dataset used is **House_Price_India.csv**, which contains multiple features related to house pricing, such as:  
 
 - **Location**  
 - **Square Foot Area**  
@@ -78,4 +79,4 @@ The dataset used is **House Price India.csv**, which contains multiple features 
 - **Open real estate datasets** for house price prediction.  
 - **Scikit-learn & XGBoost Documentation** for machine learning insights.  
 
-🔥 **If you found this project useful, consider giving it a ⭐!**  
+🔥 **If you found this project useful, consider giving it a ⭐ on GitHub!**  
